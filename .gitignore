@@ -1,0 +1,9 @@
+target
+/.idea/misc.xml
+/.idea/compiler.xml
+/.idea/copyright
+/.idea/codeStyleSettings.xml
+/.idea/file.template.settings.xml
+/.idea/workspace.xml
+/.idea/dictionaries
+logs
